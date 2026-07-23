@@ -1,7 +1,7 @@
 # Hola, soy Tomas
 
 Estudiante de 3º año de Tecnicatura en Desarrollo de Software.
-Me interesa el desarrollo full stack y la radiofrecuencia (SDR).
+Me interesa el desarrollo backend y la radiofrecuencia (SDR).
 
 Actualmente busco mi primera experiencia profesional como desarrollador.
 
